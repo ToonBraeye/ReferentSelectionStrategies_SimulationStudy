@@ -1,0 +1,2 @@
+# ReferentSelectionStrategies_SimulationStudy
+Simulation Study on case-crossover referent selection stategies
