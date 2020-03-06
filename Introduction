@@ -1,0 +1,8 @@
+# R-code from the paper "Optimizing the case-crossover design for use in shared exposure settings"
+
+This code will create data on Legionnaires' disease and meteorological variables by three different scenarios:
+1. 01: Random events, unaltered exposures
+2. 10: Unaltered events, random exposures
+3. M1: Event probabilities modelled by exposure values
+
+The results of the different simulations run can be aggregated and presented using the "Results_presentation"-scripts
